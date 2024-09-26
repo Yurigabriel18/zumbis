@@ -1,0 +1,34 @@
+body {
+    font-family: Arial, sans-serif;
+    color: white;
+    text-align: center;
+    padding: 20px;
+    background-image: url('https://images.app.goo.gl/2XRm1pd9nMt8NmHq7');
+    background-size: cover;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    margin: 0;
+}
+
+#container {
+    background: rgba(0, 0, 0, 0.7); /* Semi-transparent background */
+    padding: 30px;
+    border-radius: 10px;
+    width: 80%; /* Adjustable width */
+    max-width: 600px; /* Maximum width */
+}
+
+#next {
+    margin-top: 20px;
+    padding: 15px 30px;
+    font-size: 20px;
+    background-color: #f00;
+    color: white;
+    border: none;
+    cursor: pointer;
+}
+
+
+
